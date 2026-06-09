@@ -41,6 +41,8 @@ Formal civic and legal language appropriate for submission to any California gov
 
 ---
 
+The signature layer is intentionally unspecified. The raw human input is preserved as-is and displayed alongside all translated outputs. How that raw input is captured, stored, or authenticated is left to each implementation. Voice capture, typed input with errors preserved, biometric attachment, or any other mark system can be plugged in modularly. The only requirement is that something unedited and human-sourced travels with every output.
+
 ## Design Principles
 
 - **The citizen always sends it themselves.** This tool drafts and routes. It never sends automatically. That is intentional and non-negotiable.
